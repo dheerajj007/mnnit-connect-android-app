@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Sourabh Chouhan/Desktop/connnect app/MNNIT-CONNECT_DROIDRUSH/ConnectApp/app/src/main/res/drawable/border.xml" value="0.151" />
+        <entry key="..\:/Users/Sourabh Chouhan/Desktop/connnect app/MNNIT-CONNECT_DROIDRUSH/ConnectApp/app/src/main/res/drawable/circle.xml" value="0.151" />
+        <entry key="..\:/Users/Sourabh Chouhan/Desktop/connnect app/MNNIT-CONNECT_DROIDRUSH/ConnectApp/app/src/main/res/drawable/ic_community.xml" value="0.151" />
+        <entry key="..\:/Users/Sourabh Chouhan/Desktop/connnect app/MNNIT-CONNECT_DROIDRUSH/ConnectApp/app/src/main/res/drawable/splash_backgroud.xml" value="0.151" />
+        <entry key="..\:/Users/Sourabh Chouhan/Desktop/connnect app/MNNIT-CONNECT_DROIDRUSH/ConnectApp/app/src/main/res/layout/activity_community_page.xml" value="0.16666666666666666" />
+        <entry key="..\:/Users/Sourabh Chouhan/Desktop/connnect app/MNNIT-CONNECT_DROIDRUSH/ConnectApp/app/src/main/res/layout/activity_create_community.xml" value="0.16666666666666666" />
+        <entry key="..\:/Users/Sourabh Chouhan/Desktop/connnect app/MNNIT-CONNECT_DROIDRUSH/ConnectApp/app/src/main/res/layout/activity_create_community_post.xml" value="0.1513157894736842" />
+        <entry key="..\:/Users/Sourabh Chouhan/Desktop/connnect app/MNNIT-CONNECT_DROIDRUSH/ConnectApp/app/src/main/res/layout/activity_create_profile.xml" value="0.1513157894736842" />
+        <entry key="..\:/Users/Sourabh Chouhan/Desktop/connnect app/MNNIT-CONNECT_DROIDRUSH/ConnectApp/app/src/main/res/layout/activity_explore_community.xml" value="0.3333333333333333" />
+        <entry key="..\:/Users/Sourabh Chouhan/Desktop/connnect app/MNNIT-CONNECT_DROIDRUSH/ConnectApp/app/src/main/res/layout/activity_login.xml" value="0.1796875" />
+        <entry key="..\:/Users/Sourabh Chouhan/Desktop/connnect app/MNNIT-CONNECT_DROIDRUSH/ConnectApp/app/src/main/res/layout/activity_main.xml" value="0.1513157894736842" />
+        <entry key="..\:/Users/Sourabh Chouhan/Desktop/connnect app/MNNIT-CONNECT_DROIDRUSH/ConnectApp/app/src/main/res/layout/activity_post_detail.xml" value="0.14666666666666667" />
+        <entry key="..\:/Users/Sourabh Chouhan/Desktop/connnect app/MNNIT-CONNECT_DROIDRUSH/ConnectApp/app/src/main/res/layout/activity_sign_up.xml" value="0.1513157894736842" />
+        <entry key="..\:/Users/Sourabh Chouhan/Desktop/connnect app/MNNIT-CONNECT_DROIDRUSH/ConnectApp/app/src/main/res/layout/activity_update_profile.xml" value="0.1513157894736842" />
+        <entry key="..\:/Users/Sourabh Chouhan/Desktop/connnect app/MNNIT-CONNECT_DROIDRUSH/ConnectApp/app/src/main/res/layout/community_list.xml" value="0.1513157894736842" />
+        <entry key="..\:/Users/Sourabh Chouhan/Desktop/connnect app/MNNIT-CONNECT_DROIDRUSH/ConnectApp/app/src/main/res/layout/fragment_community.xml" value="0.16666666666666666" />
+        <entry key="..\:/Users/Sourabh Chouhan/Desktop/connnect app/MNNIT-CONNECT_DROIDRUSH/ConnectApp/app/src/main/res/layout/fragment_create_post.xml" value="0.16666666666666666" />
+        <entry key="..\:/Users/Sourabh Chouhan/Desktop/connnect app/MNNIT-CONNECT_DROIDRUSH/ConnectApp/app/src/main/res/layout/fragment_home.xml" value="0.1513157894736842" />
+        <entry key="..\:/Users/Sourabh Chouhan/Desktop/connnect app/MNNIT-CONNECT_DROIDRUSH/ConnectApp/app/src/main/res/layout/fragment_profile.xml" value="0.3333333333333333" />
+        <entry key="..\:/Users/Sourabh Chouhan/Desktop/connnect app/MNNIT-CONNECT_DROIDRUSH/ConnectApp/app/src/main/res/layout/home_placeholder_layout.xml" value="0.16666666666666666" />
+        <entry key="..\:/Users/Sourabh Chouhan/Desktop/connnect app/MNNIT-CONNECT_DROIDRUSH/ConnectApp/app/src/main/res/layout/image_dialog.xml" value="0.15087719298245614" />
+        <entry key="..\:/Users/Sourabh Chouhan/Desktop/connnect app/MNNIT-CONNECT_DROIDRUSH/ConnectApp/app/src/main/res/layout/newlayout.xml" value="0.1513157894736842" />
+        <entry key="..\:/Users/Sourabh Chouhan/Desktop/connnect app/MNNIT-CONNECT_DROIDRUSH/ConnectApp/app/src/main/res/layout/post_comment_row.xml" value="0.1513157894736842" />
+        <entry key="..\:/Users/Sourabh Chouhan/Desktop/connnect app/MNNIT-CONNECT_DROIDRUSH/ConnectApp/app/src/main/res/layout/post_item.xml" value="0.22" />
+        <entry key="..\:/Users/Sourabh Chouhan/Desktop/connnect app/MNNIT-CONNECT_DROIDRUSH/ConnectApp/app/src/main/res/layout/splash_screen.xml" value="0.16666666666666666" />
+        <entry key="..\:/Users/Sourabh Chouhan/Desktop/connnect app/MNNIT-CONNECT_DROIDRUSH/ConnectApp/app/src/main/res/menu/bottom_nav_menu.xml" value="0.1513157894736842" />
+        <entry key="..\:/Users/Sourabh Chouhan/Desktop/connnect app/MNNIT-CONNECT_DROIDRUSH/ConnectApp/app/src/main/res/menu/post_menu.xml" value="0.22" />
+        <entry key="..\:/Users/Sourabh Chouhan/Desktop/connnect app/MNNIT-CONNECT_DROIDRUSH/ConnectApp/app/src/main/res/xml/paths.xml" value="0.1513157894736842" />
+        <entry key="..\:/Users/Sourabh Chouhan/Desktop/mnnit/ConnectApp/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.1" />
+        <entry key="..\:/Users/Sourabh Chouhan/Desktop/mnnit/ConnectApp/app/src/main/res/drawable/button_background_blue.xml" value="0.1" />
+        <entry key="..\:/Users/Sourabh Chouhan/Desktop/mnnit/ConnectApp/app/src/main/res/drawable/ic_back_img.xml" value="0.1" />
+        <entry key="..\:/Users/Sourabh Chouhan/Desktop/mnnit/ConnectApp/app/src/main/res/drawable/ic_facebook.xml" value="0.1" />
+        <entry key="..\:/Users/Sourabh Chouhan/Desktop/mnnit/ConnectApp/app/src/main/res/drawable/ic_google_plus.xml" value="0.1" />
+        <entry key="..\:/Users/Sourabh Chouhan/Desktop/mnnit/ConnectApp/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1" />
+        <entry key="..\:/Users/Sourabh Chouhan/Desktop/mnnit/ConnectApp/app/src/main/res/drawable/ic_launcher_foreground.xml" value="0.1" />
+        <entry key="..\:/Users/Sourabh Chouhan/Desktop/mnnit/ConnectApp/app/src/main/res/drawable/ic_login_hero.xml" value="0.1" />
+        <entry key="..\:/Users/Sourabh Chouhan/Desktop/mnnit/ConnectApp/app/src/main/res/drawable/ic_register_hero.xml" value="0.1" />
+        <entry key="..\:/Users/Sourabh Chouhan/Desktop/mnnit/ConnectApp/app/src/main/res/drawable/ic_side_bg.xml" value="0.1" />
+        <entry key="..\:/Users/Sourabh Chouhan/Desktop/mnnit/ConnectApp/app/src/main/res/layout/activity_login.xml" value="0.1" />
+        <entry key="..\:/Users/Sourabh Chouhan/Desktop/mnnit/ConnectApp/app/src/main/res/layout/activity_main.xml" value="0.3333333333333333" />
+        <entry key="..\:/Users/Sourabh Chouhan/Desktop/mnnit/ConnectApp/app/src/main/res/layout/activity_sign_up.xml" value="0.1796875" />
+        <entry key="..\:/Users/Sourabh Chouhan/Desktop/mnnit/ConnectApp/app/src/main/res/menu/bottom_nav_menu.xml" value="0.1796875" />
+        <entry key="..\:/Users/Sourabh Chouhan/Desktop/mnnit/ConnectApp/app/src/main/res/mipmap-anydpi-v26/ic_home.xml" value="0.1" />
+        <entry key="..\:/Users/Sourabh Chouhan/Desktop/mnnit/ConnectApp/app/src/main/res/mipmap-anydpi-v26/ic_home_round.xml" value="0.1" />
+        <entry key="..\:/Users/Sourabh Chouhan/Desktop/mnnit/ConnectApp/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.1" />
+        <entry key="..\:/Users/Sourabh Chouhan/Desktop/mnnit/ConnectApp/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.1" />
+        <entry key="..\:/Users/Sourabh Chouhan/Desktop/mnnit/ConnectApp/app/src/main/res/mipmap-anydpi-v26/ic_person.xml" value="0.1" />
+        <entry key="..\:/Users/Sourabh Chouhan/Desktop/mnnit/ConnectApp/app/src/main/res/mipmap-anydpi-v26/ic_person_round.xml" value="0.1" />
+      </map>
+    </option>
+  </component>
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+  <component name="VisualizationToolProject">
+    <option name="state">
+      <ProjectState>
+        <option name="scale" value="0.16666666666666666" />
+      </ProjectState>
+    </option>
+  </component>
+</project>
