@@ -37,9 +37,10 @@ To run this project in your system, follow these steps -
 
 
 ## Contributors
-- [Horil Prasad](https://github.com/HorilPrasad)
-- [Sourabh chouhan](https://github.com/sourabhchouhan07)
-- [Amit kumar](https://github.com/AmitKumar237)
+- Sourabh Chauhan
+- Dheeraj Kumar
+- Shubham Gupta
+- Anupam Ashish Minz
 
 
 
